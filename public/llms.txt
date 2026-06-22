@@ -1,0 +1,71 @@
+# 23Hours — Generative Engine Optimization Map
+
+> A specialty sports apparel brand focused on unique basketball and football jerseys. The brand revolves around the culture and passion of sports fans, offering distinctive jersey designs that stand out from standard merchandise. The vibe is energetic, athletic, and fan-driven, with a strong connection to sports culture and team spirit.
+
+---
+
+## Pages
+
+### Home
+https://23hours-4b41fa43.zappy5.app
+Unleash your team spirit with 23Hours&#39; bold basketball and football jerseys. Stand out with fan-driven designs that fuel your passion. Shop now and rep your squad!
+
+### Thank You | 23Hours
+https://23hours-4b41fa43.zappy5.app/thank-you
+23Hours - Thank You | 23Hours
+
+## Legal & Policy
+
+### Privacy Policy
+https://23hours-4b41fa43.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://23hours-4b41fa43.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://23hours-4b41fa43.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://23hours-4b41fa43.zappy5.app
+- Endpoint: https://23hours-4b41fa43.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 23Hours
+A specialty sports apparel brand focused on unique basketball and football jerseys. The brand revolves around the culture and passion of sports fans, offering distinctive jersey designs that stand out from standard merchandise. The vibe is energetic, athletic, and fan-driven, with a strong connection to sports culture and team spirit.
+
+## Target Audience
+- אוהדי כדורסל וכדורגל
+- Basketball & Football Fans
+- Athletic College Students
+- Urban Fitness Enthusiasts
+
+## Industry
+Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://23hours-4b41fa43.zappy5.app/sitemap.xml
+- Robots: https://23hours-4b41fa43.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://23hours-4b41fa43.zappy5.app/llms-full.txt
